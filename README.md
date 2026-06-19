@@ -1,102 +1,118 @@
-# 👋 Mohsen Mousavi | Senior Full Stack Developer
+# Seyed Mohsen Mousavi Moghaddam
+**Senior Full Stack Developer · Backend-Focused · .NET & Distributed Systems**
 
-> 15+ years of building scalable backend systems — now expanding into modern full-stack with NestJS & Go
-
-I'm a **Senior Backend Engineer** with deep expertise in the .NET ecosystem, microservices, distributed systems, and real-time data processing.  
-Throughout my career, I've designed and delivered enterprise ERP systems (finance & accounting), high-volume data pipelines, and healthcare integrations.
-
-Recently, I've been actively working with **NestJS** and **Go** to bring modern full-stack capabilities to my toolkit — bridging my backend strength with cleaner, faster, and more maintainable stacks.
+📞 +98 915 517 9633 · ✉️ Mousavi19850921@gmail.com 
 
 ---
 
-### 🧠 Core Technical Expertise
+## Professional Summary
 
-| Area | Technologies |
-|------|--------------|
-| **Backend (Primary)** | C#, .NET 8, ASP.NET Core, EF Core, Dapper |
-| **Modern Full-Stack** | **NestJS**, **Go**, REST APIs, gRPC, GraphQL |
-| **Architecture** | Microservices, DDD, CQRS, Clean Architecture |
-| **Messaging & Streaming** | RabbitMQ, Kafka |
-| **Databases** | SQL Server, MongoDB, PostgreSQL, Redis |
+Senior Full Stack Developer with 15+ years of experience designing, building, and scaling enterprise-grade software across healthcare, ERP, e-commerce, and data-intensive domains. Deep expertise in .NET ecosystem, microservices, distributed systems, and real-time data processing. Proven track record of improving API performance by 25–30%, leading technical design decisions, and delivering maintainable architectures. Experienced across the full SDLC — from requirements analysis to production deployment. Additional hands-on experience with NestJS, Next.js, and Go on modern SaaS and healthcare-focused platforms.
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | C#, TypeScript, JavaScript, Go (proficient) |
+| **Backend** | .NET 8, ASP.NET Core, Entity Framework Core, Dapper, NestJS |
+| **Frontend** | Next.js, React, Blazor WebAssembly, Angular |
+| **Architecture** | Microservices, DDD, CQRS, Clean Architecture, Event-Driven |
+| **Messaging & APIs** | RabbitMQ, Kafka, REST, gRPC, GraphQL |
+| **Databases** | SQL Server, PostgreSQL, MongoDB, Redis |
 | **DevOps & Tools** | Docker, CI/CD, Git, ELK Stack |
 
 ---
 
-### 🧩 Full-Stack Mindset
+## Professional Experience
 
-While my depth is in backend, I think and deliver as a **Full Stack Developer**:
-- Design systems from database to API to frontend integration
-- Understand clean architecture, separation of concerns, and API contracts
-- Actively learning and building with **NestJS** (Node.js backend) and **Go** (high-performance services)
+### Lead Software Engineer · [Clinora](https://clinora.io) — Healthcare SaaS Platform
+`2025 – Present`
 
-> *"I write backend code that frontend developers actually enjoy calling."*
+- Architecting and building an AI-assisted healthcare SaaS platform with a long-term roadmap toward a full HIS ecosystem
+- Designing configurable, workflow-driven processes for healthcare providers, patients, insurance operators, and administrators
+- Implementing role-based process automation, dynamic workflow orchestration, and AI-assisted medical documentation
+- Evaluating Go for high-performance backend services and future platform scalability
+- Owning end-to-end architecture, development, deployment, and technical roadmap
 
----
-
-### 💼 Professional Experience
-
-#### Senior Backend Engineer / Team Lead  
-**CIMA (Remote – Canada)** | Jan 2025 – May 2026  
-- Microservices for real-time traffic data processing (low-latency, high-volume)  
-- Reduced API response time by **25%**  
-- Integrated external APIs and sensor data sources
-
-#### Backend Lead Developer (ERP Systems)  
-**Sadgan** | Sep 2023 – May 2025  
-- Financial & accounting modules in enterprise ERP  
-- Applied DDD, CQRS, and modular architecture with **ASP.NET Core & ABP Framework**  
-- Improved data pipeline performance by **30%**
-
-#### Senior Backend / Full Stack Developer  
-**Freelance & Consulting** | Feb 2021 – Oct 2023  
-- Worked on **DrNext** (Alibaba Group subsidiary) – microservices with .NET & MongoDB  
-- Consulting on clean architecture, performance, and ELK stack monitoring
-
-#### Senior Full Stack Developer  
-**Golrang Industrial Group** | Jun 2018 – Feb 2021  
-- Backend services for large-scale e-commerce and enterprise systems  
-- Financial workflows and optimized database queries
-
-#### CTO / Co-Founder  
-**Parto Ertebat Arad Co** | 2012 – 2018  
-- Designed **Laboratory Information System (LIS)** with ASTM protocol integration  
-- Full product lifecycle leadership
+**Tech Stack:** NestJS, Next.js, TypeScript, Go, PostgreSQL, Docker, AI-assisted Workflows
 
 ---
 
-### 🚀 Modern Stack Explorations (NestJS + Go)
+### Senior Full Stack Developer / Team Lead · CIMA *(Remote)*
+`Jan 2025 – May 2026`
 
-| Project | Description |
-|---------|-------------|
-| **NestJS REST API** | Modular backend with TypeORM, JWT, and clean architecture |
-| **Go Microservice** | High-throughput service for real-time data validation |
+- Developed and maintained production-grade services and web applications using .NET, NestJS, and Next.js
+- Designed scalable APIs and distributed services supporting real-time and data-intensive workflows
+- Reduced API response time by **25%** through targeted optimization and architectural improvements
+- Collaborated across frontend, backend, and architecture concerns within a microservices environment
+- Contributed to technical design decisions, code quality standards, and team best practices
 
-> These are part of my active learning journey — available on GitHub.
-
----
-
-### 🎓 Education
-
-**M.Sc. in Software Engineering** – Islamic Azad University, Iran
+**Tech Stack:** .NET 8, ASP.NET Core, NestJS, Next.js, TypeScript, MongoDB, SQL Server, RabbitMQ, Docker
 
 ---
 
-### 💪 Key Strengths
+### Lead Full Stack Developer · Sadgan
+`Sep 2023 – May 2025`
 
-- Backend architecture & system design  
-- ERP & financial domain expertise  
-- Scalable, maintainable systems  
-- Team leadership & mentoring  
-- Clean code advocate  
+- Led core ERP platform development using ASP.NET Core, ABP Framework, and Blazor WebAssembly
+- Designed and implemented financial, accounting, and workflow-driven modules supporting enterprise operations
+- Applied DDD and CQRS patterns to improve scalability, maintainability, and extensibility
+- Improved data processing workflow performance by **30%** through database query optimization and caching strategies
+- Collaborated across backend, frontend, and architecture concerns within a modular enterprise platform
+
+**Tech Stack:** ASP.NET Core, ABP Framework, Blazor WebAssembly, SQL Server, MongoDB, RabbitMQ, DDD, CQRS
 
 ---
 
-### 🌍 Open to
+### Senior Backend / Full Stack Developer · Freelance & Consulting
+`Feb 2021 – Oct 2023`
 
-✅ Remote & international roles  
-✅ Senior Full Stack / Backend positions  
-✅ Projects involving **NestJS**, **Go**, or modern .NET  
-✅ Complex domains (ERP, finance, healthcare, real-time data)
+- Engaged with large-scale systems at DrNext (Alibaba Group subsidiary), contributing to financial and operational modules
+- Designed microservices-based architectures using .NET and MongoDB for high-traffic production environments
+- Provided consulting on system architecture, clean code practices, and performance optimization
+- Implemented centralized logging and monitoring using the ELK Stack
+
+**Tech Stack:** .NET, MongoDB, Microservices, ELK Stack, Clean Architecture
+
+---
+
+### Senior Full Stack Developer · Golrang Industrial Group
+`Jun 2018 – Feb 2021`
+
+- Developed backend services for large-scale enterprise and e-commerce systems serving millions of transactions
+- Integrated warehouse scanning and inventory devices with sales and operational systems
+- Designed scalable APIs and optimized database queries for financial and business process workflows
+
+**Tech Stack:** ASP.NET Core, SQL Server, REST APIs, Enterprise Integration
+
+---
+
+### Full Stack Developer · Parto Ertebat Arad Co.
+`2012 – 2018`
+
+- Designed and developed Laboratory Information Systems (LIS) for healthcare organizations
+- Integrated hospital and laboratory devices with HIS/LIS platforms using ASTM communication protocols
+- Implemented healthcare data exchange workflows and contributed to backend architecture and application development
+
+**Tech Stack:** .NET, SQL Server, ASTM Protocols, HIS/LIS Integration
+
+---
+
+## Education
+
+**M.Sc. in Software Engineering** · Islamic Azad University, Iran
+
+---
+
+## Key Strengths
+
+- Backend architecture & system design with deep .NET expertise
+- ERP and financial domain knowledge
+- Designing scalable, maintainable distributed systems
+- Technical leadership, team mentoring, and cross-functional collaboration
+- Clean code advocacy, best practices, and performance-first mindset
 
 ---
 
